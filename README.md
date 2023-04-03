@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan-ali4&label=Profile%20views&color=0e75b6&style=flat" alt="shan-ali4" /> </p>
 
-- 🌱 I’m currently learning **Advanced queries and patterns in MongoDB, Aggregation, Indexing, Data Modeling, Express MVC Frameworks, Authentication, OAuth, Authorisation, Building CRUD Apps, Other Patterns, Sockets, Intro to Cloud**
+- 🌱 I’m currently learning **Advanced queries and patterns in MongoDB, Aggregation, Indexing, Data Modeling, Authentication, OAuth, Authorisation, Other Patterns, Sockets, Intro to Cloud**
 
 - 💬 Ask me about **Hmtl, Css, JavaScript Advanced, Node.js, Express, MongoDb, MVC framework, Python**
 
