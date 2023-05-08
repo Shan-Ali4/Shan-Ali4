@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan-ali4&label=Profile%20views&color=0e75b6&style=flat" alt="shan-ali4" /> </p>
 
-- 🌱 I’m currently learning **Advanced queries and patterns in MongoDB, Aggregation, Indexing, Data Modeling, Authentication, OAuth, Authorisation, Other Patterns, Sockets, Intro to Cloud**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Hmtl, Css, JavaScript Advanced, Node.js, Express, MongoDb, MVC framework, Python**
 
 - 📫 How to reach me **shanalicoc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_UScU63ZlD7R3jdwN5_C6Zewbzumewjf/view?usp=sharing](https://drive.google.com/file/d/1_UScU63ZlD7R3jdwN5_C6Zewbzumewjf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bfU9z8DAT-m-j0ae5_bh-iijqm21U_Yl/view?usp=sharing](https://drive.google.com/file/d/1bfU9z8DAT-m-j0ae5_bh-iijqm21U_Yl/view?usp=sharing)
 
 - ⚡ Fun fact **I Play Video Games**
 
