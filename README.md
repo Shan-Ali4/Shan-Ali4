@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shanalicoc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11k23_H9dgQ1Y19LmWHAmI3unb7uPkOCV/view?usp=sharing](https://drive.google.com/file/d/11k23_H9dgQ1Y19LmWHAmI3unb7uPkOCV/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/11k23_H9dgQ1Y19LmWHAmI3unb7uPkOCV/view?usp=sharing(https://drive.google.com/file/d/1ZIEflojQ_C4d4UOgdcXH4ZIE71Fs9vW4/view?usp=drivesdk)
 
 - ⚡ Fun fact **I Play Video Games**
 
