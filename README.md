@@ -1,4 +1,4 @@
-![Logo](https://github.com/Shan-Ali4/Shan-Ali4/blob/main/Banner.png)
+
 ----
 <h1 align="center">Hi 👋, I'm Shan Ali</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
